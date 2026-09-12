@@ -1,0 +1,3924 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-12T19:37:07.354193Z",
+  "disclaimer": "Educational information only, not investment advice. Data may be delayed, incomplete or incorrect. Verify original sources. Do not base investment decisions on this app or AI interpretations.",
+  "news": [
+    {
+      "id": "1ae938a05da8f5a6e8d4ee48",
+      "title": "Christine Lagarde: Europe seen from Normandy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
+      "source": "European Central Bank",
+      "sourceID": "ecb",
+      "category": "Global central banks",
+      "publishedAt": "2026-09-12T10:15:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2
+    },
+    {
+      "id": "0274b8d7df0f013f80526e2f",
+      "title": "Philip R. Lane: Outlook for the euro area economy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf",
+      "source": "European Central Bank",
+      "sourceID": "ecb",
+      "category": "Global central banks",
+      "publishedAt": "2026-09-11T17:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2
+    },
+    {
+      "id": "801d63c5c41391b968dca5c5",
+      "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+      "source": "Federal Reserve",
+      "sourceID": "fed",
+      "category": "Monetary policy",
+      "publishedAt": "2026-09-11T14:00:00Z",
+      "fetchedAt": "2026-09-12T17:25:02.589382Z",
+      "importance": 2
+    },
+    {
+      "id": "18a063e11b9e4f0fc797761c",
+      "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+      "source": "Federal Reserve",
+      "sourceID": "fed",
+      "category": "Monetary policy",
+      "publishedAt": "2026-09-10T20:00:00Z",
+      "fetchedAt": "2026-09-12T17:25:02.589382Z",
+      "importance": 2
+    },
+    {
+      "id": "3ca1bd1030e8a3faacc183dd",
+      "title": "United States on track for record crude oil production in 2026",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68125",
+      "source": "EIA \u00b7 Today in Energy",
+      "sourceID": "eia",
+      "category": "Energy",
+      "publishedAt": "2026-09-10T14:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2
+    },
+    {
+      "id": "17fc1cfd49833ceda36e0d8d",
+      "title": "Christine Lagarde, Boris Vuj\u010di\u0107: Monetary policy statement (with Q&A)",
+      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
+      "source": "European Central Bank",
+      "sourceID": "ecb",
+      "category": "Global central banks",
+      "publishedAt": "2026-09-10T13:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 3
+    },
+    {
+      "id": "b140761048bccaed0ac3f4b5",
+      "title": "Monetary policy decisions",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
+      "source": "European Central Bank",
+      "sourceID": "ecb",
+      "category": "Global central banks",
+      "publishedAt": "2026-09-10T12:15:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 3
+    },
+    {
+      "id": "677c2bda76b5ca4433500b87",
+      "title": "Announcement of the publication of the Governor's interview transcript",
+      "url": "https://www.bankofengland.co.uk/news/2026/september/statement-announcing-governors-interview",
+      "source": "Bank of England",
+      "sourceID": "boe",
+      "category": "Global central banks",
+      "publishedAt": "2026-09-10T09:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2
+    },
+    {
+      "id": "a22ba3d02154aeb26e639926",
+      "title": "Christine Lagarde: The choice facing Europeans",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html",
+      "source": "European Central Bank",
+      "sourceID": "ecb",
+      "category": "Global central banks",
+      "publishedAt": "2026-09-09T17:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2
+    },
+    {
+      "id": "121d8be51366c09f6019c834",
+      "title": "New England natural gas prices have been trading near record discounts to Henry Hub",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68124",
+      "source": "EIA \u00b7 Today in Energy",
+      "sourceID": "eia",
+      "category": "Energy",
+      "publishedAt": "2026-09-09T14:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2
+    },
+    {
+      "id": "41ae8f83c5000b8961a20c43",
+      "title": "Frank Elderson: Fireside chat",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html",
+      "source": "European Central Bank",
+      "sourceID": "ecb",
+      "category": "Global central banks",
+      "publishedAt": "2026-09-08T15:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2
+    },
+    {
+      "id": "8e50e86f77c26bb3a56197aa",
+      "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+      "source": "Federal Reserve",
+      "sourceID": "fed",
+      "category": "Monetary policy",
+      "publishedAt": "2026-09-04T15:00:00Z",
+      "fetchedAt": "2026-09-12T17:25:02.589382Z",
+      "importance": 2
+    },
+    {
+      "id": "aa6979c4c99abd0495ce8c03",
+      "title": "Elevated crack spreads and crude oil prices contribute to higher prices at the pump",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68104",
+      "source": "EIA \u00b7 Today in Energy",
+      "sourceID": "eia",
+      "category": "Energy",
+      "publishedAt": "2026-09-04T14:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2
+    },
+    {
+      "id": "e4f8cdf800e35dfb39d21984",
+      "title": "Philip R. Lane: Diversity at the European Central Bank",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
+      "source": "European Central Bank",
+      "sourceID": "ecb",
+      "category": "Global central banks",
+      "publishedAt": "2026-09-04T09:10:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2
+    },
+    {
+      "id": "ddc4d7a8713badb0124664b7",
+      "title": "Weekly average load in ERCOT continues near record high",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68084",
+      "source": "EIA \u00b7 Today in Energy",
+      "sourceID": "eia",
+      "category": "Energy",
+      "publishedAt": "2026-09-03T14:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2
+    },
+    {
+      "id": "e3db0a1d14a2cc6fd79a16ec",
+      "title": "U.S. International Trade in Goods and Services, July 2026",
+      "url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-july-2026",
+      "source": "Bureau of Economic Analysis",
+      "sourceID": "bea",
+      "category": "Growth & income",
+      "publishedAt": "2026-09-03T12:30:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2
+    },
+    {
+      "id": "07949dd271af21c9b9da7f9c",
+      "title": "Boris Vuj\u010di\u0107: Listening to households: expectations, behaviour and monetary policy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
+      "source": "European Central Bank",
+      "sourceID": "ecb",
+      "category": "Global central banks",
+      "publishedAt": "2026-09-01T16:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 3
+    },
+    {
+      "id": "ffda70c20a7584dc75132218",
+      "title": "U.S. LNG exports rose 23% in the first half of 2026 because of higher capacity",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68064",
+      "source": "EIA \u00b7 Today in Energy",
+      "sourceID": "eia",
+      "category": "Energy",
+      "publishedAt": "2026-09-01T14:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2
+    },
+    {
+      "id": "1b13b818cd1f367090ffaa0a",
+      "title": "Isabel Schnabel: Central banks on-chain",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
+      "source": "European Central Bank",
+      "sourceID": "ecb",
+      "category": "Global central banks",
+      "publishedAt": "2026-08-28T16:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2
+    },
+    {
+      "id": "6d460c7606a78e263b60ce40",
+      "title": "U.S. uranium production more than tripled in 2025 and was the highest since 2017",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68044",
+      "source": "EIA \u00b7 Today in Energy",
+      "sourceID": "eia",
+      "category": "Energy",
+      "publishedAt": "2026-08-28T14:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2
+    }
+  ],
+  "context": [
+    {
+      "id": "0274b8d7df0f013f80526e2f",
+      "title": "Philip R. Lane: Outlook for the euro area economy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf",
+      "source": "European Central Bank",
+      "sourceID": "ecb",
+      "category": "Global central banks",
+      "publishedAt": "2026-09-11T17:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2,
+      "contextTopic": "macro-outlook",
+      "retentionReason": "macro-outlook: historical context; verify current status",
+      "reviewAt": "2026-10-11T17:00:00Z",
+      "expiresAt": "2027-01-09T17:00:00Z"
+    },
+    {
+      "id": "b140761048bccaed0ac3f4b5",
+      "title": "Monetary policy decisions",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
+      "source": "European Central Bank",
+      "sourceID": "ecb",
+      "category": "Global central banks",
+      "publishedAt": "2026-09-10T12:15:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 3,
+      "contextTopic": "fed-policy",
+      "retentionReason": "fed-policy: historical context; verify current status",
+      "reviewAt": "2026-10-10T12:15:00Z",
+      "expiresAt": "2027-09-10T12:15:00Z"
+    },
+    {
+      "id": "ffda70c20a7584dc75132218",
+      "title": "U.S. LNG exports rose 23% in the first half of 2026 because of higher capacity",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68064",
+      "source": "EIA \u00b7 Today in Energy",
+      "sourceID": "eia",
+      "category": "Energy",
+      "publishedAt": "2026-09-01T14:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2,
+      "contextTopic": "supply-chain",
+      "retentionReason": "supply-chain: historical context; verify current status",
+      "reviewAt": "2026-10-01T14:00:00Z",
+      "expiresAt": "2027-02-28T14:00:00Z"
+    },
+    {
+      "id": "0a2aabbd7f6747b43b5675ec",
+      "title": "Eight petroleum liquids pipeline projects have been completed since the start of 2025",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68024",
+      "source": "EIA \u00b7 Today in Energy",
+      "sourceID": "eia",
+      "category": "Energy",
+      "publishedAt": "2026-08-26T14:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2,
+      "contextTopic": "supply-chain",
+      "retentionReason": "supply-chain: historical context; verify current status",
+      "reviewAt": "2026-09-25T14:00:00Z",
+      "expiresAt": "2027-02-22T14:00:00Z"
+    },
+    {
+      "id": "c8bece5d6cafef93764ef40a",
+      "title": "GDP (Second Estimate) and Corporate Profits, 2nd Quarter 2026",
+      "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-2nd-quarter-2026",
+      "source": "Bureau of Economic Analysis",
+      "sourceID": "bea",
+      "category": "Growth & income",
+      "publishedAt": "2026-08-26T12:30:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2,
+      "contextTopic": "macro-outlook",
+      "retentionReason": "macro-outlook: historical context; verify current status",
+      "reviewAt": "2026-09-25T12:30:00Z",
+      "expiresAt": "2026-12-24T12:30:00Z"
+    },
+    {
+      "id": "5895968b941e893ae940f010",
+      "title": "Personal Income and Outlays, July 2026",
+      "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-july-2026",
+      "source": "Bureau of Economic Analysis",
+      "sourceID": "bea",
+      "category": "Growth & income",
+      "publishedAt": "2026-08-26T12:30:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2,
+      "contextTopic": "macro-outlook",
+      "retentionReason": "macro-outlook: historical context; verify current status",
+      "reviewAt": "2026-09-25T12:30:00Z",
+      "expiresAt": "2026-12-24T12:30:00Z"
+    },
+    {
+      "id": "5a0547ffcaa7a57e38fa28e5",
+      "title": "Personal Income and Outlays, June 2026",
+      "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-june-2026",
+      "source": "Bureau of Economic Analysis",
+      "sourceID": "bea",
+      "category": "Growth & income",
+      "publishedAt": "2026-07-30T12:30:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2,
+      "contextTopic": "macro-outlook",
+      "retentionReason": "macro-outlook: historical context; verify current status",
+      "reviewAt": "2026-08-29T12:30:00Z",
+      "expiresAt": "2026-11-27T12:30:00Z"
+    },
+    {
+      "id": "5032b8230b3b0553b2bc03ae",
+      "title": "Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026",
+      "source": "Bank of England",
+      "sourceID": "boe",
+      "category": "Global central banks",
+      "publishedAt": "2026-07-30T11:00:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 3,
+      "contextTopic": "fed-policy",
+      "retentionReason": "fed-policy: historical context; verify current status",
+      "reviewAt": "2026-08-29T11:00:00Z",
+      "expiresAt": "2027-07-30T11:00:00Z"
+    },
+    {
+      "id": "e290aabba3caad80496847cf",
+      "title": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "source": "Federal Reserve",
+      "sourceID": "fed",
+      "category": "Monetary policy",
+      "publishedAt": "2026-07-29T18:00:00Z",
+      "fetchedAt": "2026-09-12T17:25:02.589382Z",
+      "importance": 3,
+      "contextTopic": "fed-policy",
+      "retentionReason": "fed-policy: historical context; verify current status",
+      "reviewAt": "2026-08-28T18:00:00Z",
+      "expiresAt": "2027-07-29T18:00:00Z",
+      "sourceExcerpt": "The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate. The Committee is continuing its policy of maintaining ample reserves in the banking system."
+    },
+    {
+      "id": "95d1bb004b4b6b4e50d4aff0",
+      "title": "Philip R. Lane: Outlook for the euro area economy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
+      "source": "European Central Bank",
+      "sourceID": "ecb",
+      "category": "Global central banks",
+      "publishedAt": "2026-07-24T15:30:00Z",
+      "fetchedAt": "2026-09-08T13:30:40.827656Z",
+      "importance": 2,
+      "contextTopic": "macro-outlook",
+      "retentionReason": "macro-outlook: historical context; verify current status",
+      "reviewAt": "2026-08-23T15:30:00Z",
+      "expiresAt": "2026-11-21T15:30:00Z"
+    },
+    {
+      "id": "82692a9e064369f7cf908581",
+      "title": "Personal Income and Outlays, May 2026",
+      "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-may-2026",
+      "source": "Bureau of Economic Analysis",
+      "sourceID": "bea",
+      "category": "Growth & income",
+      "publishedAt": "2026-06-25T12:30:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2,
+      "contextTopic": "macro-outlook",
+      "retentionReason": "macro-outlook: historical context; verify current status",
+      "reviewAt": "2026-07-25T12:30:00Z",
+      "expiresAt": "2026-10-23T12:30:00Z"
+    },
+    {
+      "id": "c4a64a17c718acf28330bdd9",
+      "title": "Personal Income and Outlays, April 2026",
+      "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-april-2026",
+      "source": "Bureau of Economic Analysis",
+      "sourceID": "bea",
+      "category": "Growth & income",
+      "publishedAt": "2026-05-28T12:30:00Z",
+      "fetchedAt": "2026-09-12T19:37:07.354193Z",
+      "importance": 2,
+      "contextTopic": "macro-outlook",
+      "retentionReason": "macro-outlook: historical context; verify current status",
+      "reviewAt": "2026-06-27T12:30:00Z",
+      "expiresAt": "2026-09-25T12:30:00Z"
+    }
+  ],
+  "historyWindow": {
+    "calendar": "NYSE",
+    "tradingDays": 10,
+    "start": "2026-08-28T04:00:00Z",
+    "end": "2026-09-12T19:37:07.354193Z"
+  },
+  "backfill": [
+    {
+      "sourceID": "fed",
+      "method": "available RSS/Atom history",
+      "oldestAvailable": null,
+      "reachesWindowStart": false,
+      "note": "Feed depth is not proof of complete historical coverage."
+    },
+    {
+      "sourceID": "bls-cpi",
+      "method": "available RSS/Atom history",
+      "oldestAvailable": null,
+      "reachesWindowStart": false,
+      "note": "Feed depth is not proof of complete historical coverage."
+    },
+    {
+      "sourceID": "bls-jobs",
+      "method": "available RSS/Atom history",
+      "oldestAvailable": null,
+      "reachesWindowStart": false,
+      "note": "Feed depth is not proof of complete historical coverage."
+    },
+    {
+      "sourceID": "ecb",
+      "method": "available RSS/Atom history",
+      "oldestAvailable": "2026-08-17T09:30:00Z",
+      "reachesWindowStart": true,
+      "note": "Feed depth is not proof of complete historical coverage."
+    },
+    {
+      "sourceID": "boe",
+      "method": "available RSS/Atom history",
+      "oldestAvailable": "2026-05-07T13:00:00Z",
+      "reachesWindowStart": true,
+      "note": "Feed depth is not proof of complete historical coverage."
+    },
+    {
+      "sourceID": "eia",
+      "method": "available RSS/Atom history",
+      "oldestAvailable": "2026-08-03T14:00:00Z",
+      "reachesWindowStart": true,
+      "note": "Feed depth is not proof of complete historical coverage."
+    },
+    {
+      "sourceID": "bea",
+      "method": "available RSS/Atom history",
+      "oldestAvailable": "2025-09-16T14:00:00Z",
+      "reachesWindowStart": true,
+      "note": "Feed depth is not proof of complete historical coverage."
+    },
+    {
+      "sourceID": "fed-archive",
+      "method": "current and previous year official release archives; daily refresh",
+      "reachesWindowStart": null,
+      "note": "Archive dates have day precision; complete coverage is not guaranteed.",
+      "checkedDate": "2026-09-12",
+      "success": true
+    }
+  ],
+  "archiveBackfill": {
+    "checkedDate": "2026-09-12",
+    "success": true
+  },
+  "treasuryHistoryBackfilled": true,
+  "events": [
+    {
+      "id": "fomc-2026-09-16",
+      "title": "FOMC decision \u00b7 expected 2 p.m. ET; verify release time",
+      "date": "2026-09-16T18:00:00Z",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "category": "Monetary policy",
+      "consensus": null,
+      "actual": null
+    }
+  ],
+  "markets": [
+    {
+      "id": "US2Y",
+      "name": "2-year Treasury",
+      "value": 4.63,
+      "unit": "%",
+      "asOf": "2026-09-11",
+      "source": "US Treasury",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "frequency": "Daily observation; not a live quote",
+      "history": [
+        {
+          "asOf": "2025-09-12",
+          "value": 3.56
+        },
+        {
+          "asOf": "2025-09-15",
+          "value": 3.54
+        },
+        {
+          "asOf": "2025-09-16",
+          "value": 3.51
+        },
+        {
+          "asOf": "2025-09-17",
+          "value": 3.52
+        },
+        {
+          "asOf": "2025-09-18",
+          "value": 3.57
+        },
+        {
+          "asOf": "2025-09-19",
+          "value": 3.57
+        },
+        {
+          "asOf": "2025-09-22",
+          "value": 3.61
+        },
+        {
+          "asOf": "2025-09-23",
+          "value": 3.53
+        },
+        {
+          "asOf": "2025-09-24",
+          "value": 3.57
+        },
+        {
+          "asOf": "2025-09-25",
+          "value": 3.64
+        },
+        {
+          "asOf": "2025-09-26",
+          "value": 3.63
+        },
+        {
+          "asOf": "2025-09-29",
+          "value": 3.63
+        },
+        {
+          "asOf": "2025-09-30",
+          "value": 3.6
+        },
+        {
+          "asOf": "2025-10-01",
+          "value": 3.55
+        },
+        {
+          "asOf": "2025-10-02",
+          "value": 3.55
+        },
+        {
+          "asOf": "2025-10-03",
+          "value": 3.58
+        },
+        {
+          "asOf": "2025-10-06",
+          "value": 3.6
+        },
+        {
+          "asOf": "2025-10-07",
+          "value": 3.57
+        },
+        {
+          "asOf": "2025-10-08",
+          "value": 3.58
+        },
+        {
+          "asOf": "2025-10-09",
+          "value": 3.6
+        },
+        {
+          "asOf": "2025-10-10",
+          "value": 3.52
+        },
+        {
+          "asOf": "2025-10-14",
+          "value": 3.48
+        },
+        {
+          "asOf": "2025-10-15",
+          "value": 3.5
+        },
+        {
+          "asOf": "2025-10-16",
+          "value": 3.41
+        },
+        {
+          "asOf": "2025-10-17",
+          "value": 3.46
+        },
+        {
+          "asOf": "2025-10-20",
+          "value": 3.46
+        },
+        {
+          "asOf": "2025-10-21",
+          "value": 3.45
+        },
+        {
+          "asOf": "2025-10-22",
+          "value": 3.45
+        },
+        {
+          "asOf": "2025-10-23",
+          "value": 3.48
+        },
+        {
+          "asOf": "2025-10-24",
+          "value": 3.48
+        },
+        {
+          "asOf": "2025-10-27",
+          "value": 3.48
+        },
+        {
+          "asOf": "2025-10-28",
+          "value": 3.47
+        },
+        {
+          "asOf": "2025-10-29",
+          "value": 3.59
+        },
+        {
+          "asOf": "2025-10-30",
+          "value": 3.61
+        },
+        {
+          "asOf": "2025-10-31",
+          "value": 3.6
+        },
+        {
+          "asOf": "2025-11-03",
+          "value": 3.6
+        },
+        {
+          "asOf": "2025-11-04",
+          "value": 3.58
+        },
+        {
+          "asOf": "2025-11-05",
+          "value": 3.63
+        },
+        {
+          "asOf": "2025-11-06",
+          "value": 3.57
+        },
+        {
+          "asOf": "2025-11-07",
+          "value": 3.55
+        },
+        {
+          "asOf": "2025-11-10",
+          "value": 3.58
+        },
+        {
+          "asOf": "2025-11-12",
+          "value": 3.56
+        },
+        {
+          "asOf": "2025-11-13",
+          "value": 3.58
+        },
+        {
+          "asOf": "2025-11-14",
+          "value": 3.62
+        },
+        {
+          "asOf": "2025-11-17",
+          "value": 3.6
+        },
+        {
+          "asOf": "2025-11-18",
+          "value": 3.58
+        },
+        {
+          "asOf": "2025-11-19",
+          "value": 3.58
+        },
+        {
+          "asOf": "2025-11-20",
+          "value": 3.55
+        },
+        {
+          "asOf": "2025-11-21",
+          "value": 3.51
+        },
+        {
+          "asOf": "2025-11-24",
+          "value": 3.46
+        },
+        {
+          "asOf": "2025-11-25",
+          "value": 3.43
+        },
+        {
+          "asOf": "2025-11-26",
+          "value": 3.45
+        },
+        {
+          "asOf": "2025-11-28",
+          "value": 3.47
+        },
+        {
+          "asOf": "2025-12-01",
+          "value": 3.54
+        },
+        {
+          "asOf": "2025-12-02",
+          "value": 3.51
+        },
+        {
+          "asOf": "2025-12-03",
+          "value": 3.49
+        },
+        {
+          "asOf": "2025-12-04",
+          "value": 3.52
+        },
+        {
+          "asOf": "2025-12-05",
+          "value": 3.56
+        },
+        {
+          "asOf": "2025-12-08",
+          "value": 3.57
+        },
+        {
+          "asOf": "2025-12-09",
+          "value": 3.61
+        },
+        {
+          "asOf": "2025-12-10",
+          "value": 3.54
+        },
+        {
+          "asOf": "2025-12-11",
+          "value": 3.52
+        },
+        {
+          "asOf": "2025-12-12",
+          "value": 3.52
+        },
+        {
+          "asOf": "2025-12-15",
+          "value": 3.51
+        },
+        {
+          "asOf": "2025-12-16",
+          "value": 3.48
+        },
+        {
+          "asOf": "2025-12-17",
+          "value": 3.49
+        },
+        {
+          "asOf": "2025-12-18",
+          "value": 3.46
+        },
+        {
+          "asOf": "2025-12-19",
+          "value": 3.48
+        },
+        {
+          "asOf": "2025-12-22",
+          "value": 3.44
+        },
+        {
+          "asOf": "2025-12-23",
+          "value": 3.48
+        },
+        {
+          "asOf": "2025-12-24",
+          "value": 3.47
+        },
+        {
+          "asOf": "2025-12-26",
+          "value": 3.46
+        },
+        {
+          "asOf": "2025-12-29",
+          "value": 3.45
+        },
+        {
+          "asOf": "2025-12-30",
+          "value": 3.45
+        },
+        {
+          "asOf": "2025-12-31",
+          "value": 3.47
+        },
+        {
+          "asOf": "2026-01-02",
+          "value": 3.47
+        },
+        {
+          "asOf": "2026-01-05",
+          "value": 3.46
+        },
+        {
+          "asOf": "2026-01-06",
+          "value": 3.47
+        },
+        {
+          "asOf": "2026-01-07",
+          "value": 3.47
+        },
+        {
+          "asOf": "2026-01-08",
+          "value": 3.49
+        },
+        {
+          "asOf": "2026-01-09",
+          "value": 3.54
+        },
+        {
+          "asOf": "2026-01-12",
+          "value": 3.54
+        },
+        {
+          "asOf": "2026-01-13",
+          "value": 3.53
+        },
+        {
+          "asOf": "2026-01-14",
+          "value": 3.51
+        },
+        {
+          "asOf": "2026-01-15",
+          "value": 3.56
+        },
+        {
+          "asOf": "2026-01-16",
+          "value": 3.59
+        },
+        {
+          "asOf": "2026-01-20",
+          "value": 3.6
+        },
+        {
+          "asOf": "2026-01-21",
+          "value": 3.6
+        },
+        {
+          "asOf": "2026-01-22",
+          "value": 3.61
+        },
+        {
+          "asOf": "2026-01-23",
+          "value": 3.6
+        },
+        {
+          "asOf": "2026-01-26",
+          "value": 3.56
+        },
+        {
+          "asOf": "2026-01-27",
+          "value": 3.53
+        },
+        {
+          "asOf": "2026-01-28",
+          "value": 3.56
+        },
+        {
+          "asOf": "2026-01-29",
+          "value": 3.53
+        },
+        {
+          "asOf": "2026-01-30",
+          "value": 3.52
+        },
+        {
+          "asOf": "2026-02-02",
+          "value": 3.57
+        },
+        {
+          "asOf": "2026-02-03",
+          "value": 3.57
+        },
+        {
+          "asOf": "2026-02-04",
+          "value": 3.57
+        },
+        {
+          "asOf": "2026-02-05",
+          "value": 3.47
+        },
+        {
+          "asOf": "2026-02-06",
+          "value": 3.5
+        },
+        {
+          "asOf": "2026-02-09",
+          "value": 3.48
+        },
+        {
+          "asOf": "2026-02-10",
+          "value": 3.45
+        },
+        {
+          "asOf": "2026-02-11",
+          "value": 3.52
+        },
+        {
+          "asOf": "2026-02-12",
+          "value": 3.47
+        },
+        {
+          "asOf": "2026-02-13",
+          "value": 3.4
+        },
+        {
+          "asOf": "2026-02-17",
+          "value": 3.43
+        },
+        {
+          "asOf": "2026-02-18",
+          "value": 3.47
+        },
+        {
+          "asOf": "2026-02-19",
+          "value": 3.47
+        },
+        {
+          "asOf": "2026-02-20",
+          "value": 3.48
+        },
+        {
+          "asOf": "2026-02-23",
+          "value": 3.43
+        },
+        {
+          "asOf": "2026-02-24",
+          "value": 3.43
+        },
+        {
+          "asOf": "2026-02-25",
+          "value": 3.45
+        },
+        {
+          "asOf": "2026-02-26",
+          "value": 3.42
+        },
+        {
+          "asOf": "2026-02-27",
+          "value": 3.38
+        },
+        {
+          "asOf": "2026-03-02",
+          "value": 3.47
+        },
+        {
+          "asOf": "2026-03-03",
+          "value": 3.51
+        },
+        {
+          "asOf": "2026-03-04",
+          "value": 3.54
+        },
+        {
+          "asOf": "2026-03-05",
+          "value": 3.57
+        },
+        {
+          "asOf": "2026-03-06",
+          "value": 3.56
+        },
+        {
+          "asOf": "2026-03-09",
+          "value": 3.56
+        },
+        {
+          "asOf": "2026-03-10",
+          "value": 3.57
+        },
+        {
+          "asOf": "2026-03-11",
+          "value": 3.64
+        },
+        {
+          "asOf": "2026-03-12",
+          "value": 3.76
+        },
+        {
+          "asOf": "2026-03-13",
+          "value": 3.73
+        },
+        {
+          "asOf": "2026-03-16",
+          "value": 3.68
+        },
+        {
+          "asOf": "2026-03-17",
+          "value": 3.68
+        },
+        {
+          "asOf": "2026-03-18",
+          "value": 3.76
+        },
+        {
+          "asOf": "2026-03-19",
+          "value": 3.79
+        },
+        {
+          "asOf": "2026-03-20",
+          "value": 3.88
+        },
+        {
+          "asOf": "2026-03-23",
+          "value": 3.83
+        },
+        {
+          "asOf": "2026-03-24",
+          "value": 3.9
+        },
+        {
+          "asOf": "2026-03-25",
+          "value": 3.84
+        },
+        {
+          "asOf": "2026-03-26",
+          "value": 3.96
+        },
+        {
+          "asOf": "2026-03-27",
+          "value": 3.88
+        },
+        {
+          "asOf": "2026-03-30",
+          "value": 3.82
+        },
+        {
+          "asOf": "2026-03-31",
+          "value": 3.79
+        },
+        {
+          "asOf": "2026-04-01",
+          "value": 3.81
+        },
+        {
+          "asOf": "2026-04-02",
+          "value": 3.79
+        },
+        {
+          "asOf": "2026-04-03",
+          "value": 3.84
+        },
+        {
+          "asOf": "2026-04-06",
+          "value": 3.84
+        },
+        {
+          "asOf": "2026-04-07",
+          "value": 3.81
+        },
+        {
+          "asOf": "2026-04-08",
+          "value": 3.79
+        },
+        {
+          "asOf": "2026-04-09",
+          "value": 3.78
+        },
+        {
+          "asOf": "2026-04-10",
+          "value": 3.81
+        },
+        {
+          "asOf": "2026-04-13",
+          "value": 3.78
+        },
+        {
+          "asOf": "2026-04-14",
+          "value": 3.76
+        },
+        {
+          "asOf": "2026-04-15",
+          "value": 3.76
+        },
+        {
+          "asOf": "2026-04-16",
+          "value": 3.78
+        },
+        {
+          "asOf": "2026-04-17",
+          "value": 3.71
+        },
+        {
+          "asOf": "2026-04-20",
+          "value": 3.72
+        },
+        {
+          "asOf": "2026-04-21",
+          "value": 3.78
+        },
+        {
+          "asOf": "2026-04-22",
+          "value": 3.79
+        },
+        {
+          "asOf": "2026-04-23",
+          "value": 3.83
+        },
+        {
+          "asOf": "2026-04-24",
+          "value": 3.78
+        },
+        {
+          "asOf": "2026-04-27",
+          "value": 3.78
+        },
+        {
+          "asOf": "2026-04-28",
+          "value": 3.84
+        },
+        {
+          "asOf": "2026-04-29",
+          "value": 3.92
+        },
+        {
+          "asOf": "2026-04-30",
+          "value": 3.88
+        },
+        {
+          "asOf": "2026-05-01",
+          "value": 3.88
+        },
+        {
+          "asOf": "2026-05-04",
+          "value": 3.95
+        },
+        {
+          "asOf": "2026-05-05",
+          "value": 3.93
+        },
+        {
+          "asOf": "2026-05-06",
+          "value": 3.87
+        },
+        {
+          "asOf": "2026-05-07",
+          "value": 3.92
+        },
+        {
+          "asOf": "2026-05-08",
+          "value": 3.9
+        },
+        {
+          "asOf": "2026-05-11",
+          "value": 3.95
+        },
+        {
+          "asOf": "2026-05-12",
+          "value": 4.0
+        },
+        {
+          "asOf": "2026-05-13",
+          "value": 3.98
+        },
+        {
+          "asOf": "2026-05-14",
+          "value": 4.0
+        },
+        {
+          "asOf": "2026-05-15",
+          "value": 4.09
+        },
+        {
+          "asOf": "2026-05-18",
+          "value": 4.07
+        },
+        {
+          "asOf": "2026-05-19",
+          "value": 4.13
+        },
+        {
+          "asOf": "2026-05-20",
+          "value": 4.04
+        },
+        {
+          "asOf": "2026-05-21",
+          "value": 4.08
+        },
+        {
+          "asOf": "2026-05-22",
+          "value": 4.13
+        },
+        {
+          "asOf": "2026-05-26",
+          "value": 4.01
+        },
+        {
+          "asOf": "2026-05-27",
+          "value": 4.0
+        },
+        {
+          "asOf": "2026-05-28",
+          "value": 3.99
+        },
+        {
+          "asOf": "2026-05-29",
+          "value": 3.98
+        },
+        {
+          "asOf": "2026-06-01",
+          "value": 4.05
+        },
+        {
+          "asOf": "2026-06-02",
+          "value": 4.05
+        },
+        {
+          "asOf": "2026-06-03",
+          "value": 4.08
+        },
+        {
+          "asOf": "2026-06-04",
+          "value": 4.05
+        },
+        {
+          "asOf": "2026-06-05",
+          "value": 4.17
+        },
+        {
+          "asOf": "2026-06-08",
+          "value": 4.15
+        },
+        {
+          "asOf": "2026-06-09",
+          "value": 4.13
+        },
+        {
+          "asOf": "2026-06-10",
+          "value": 4.13
+        },
+        {
+          "asOf": "2026-06-11",
+          "value": 4.05
+        },
+        {
+          "asOf": "2026-06-12",
+          "value": 4.09
+        },
+        {
+          "asOf": "2026-06-15",
+          "value": 4.07
+        },
+        {
+          "asOf": "2026-06-16",
+          "value": 4.05
+        },
+        {
+          "asOf": "2026-06-17",
+          "value": 4.2
+        },
+        {
+          "asOf": "2026-06-18",
+          "value": 4.19
+        },
+        {
+          "asOf": "2026-06-22",
+          "value": 4.24
+        },
+        {
+          "asOf": "2026-06-23",
+          "value": 4.16
+        },
+        {
+          "asOf": "2026-06-24",
+          "value": 4.11
+        },
+        {
+          "asOf": "2026-06-25",
+          "value": 4.09
+        },
+        {
+          "asOf": "2026-06-26",
+          "value": 4.07
+        },
+        {
+          "asOf": "2026-06-29",
+          "value": 4.1
+        },
+        {
+          "asOf": "2026-06-30",
+          "value": 4.14
+        },
+        {
+          "asOf": "2026-07-01",
+          "value": 4.17
+        },
+        {
+          "asOf": "2026-07-02",
+          "value": 4.14
+        },
+        {
+          "asOf": "2026-07-06",
+          "value": 4.13
+        },
+        {
+          "asOf": "2026-07-07",
+          "value": 4.19
+        },
+        {
+          "asOf": "2026-07-08",
+          "value": 4.21
+        },
+        {
+          "asOf": "2026-07-09",
+          "value": 4.16
+        },
+        {
+          "asOf": "2026-07-10",
+          "value": 4.21
+        },
+        {
+          "asOf": "2026-07-13",
+          "value": 4.26
+        },
+        {
+          "asOf": "2026-07-14",
+          "value": 4.18
+        },
+        {
+          "asOf": "2026-07-15",
+          "value": 4.13
+        },
+        {
+          "asOf": "2026-07-16",
+          "value": 4.16
+        },
+        {
+          "asOf": "2026-07-17",
+          "value": 4.18
+        },
+        {
+          "asOf": "2026-07-20",
+          "value": 4.21
+        },
+        {
+          "asOf": "2026-07-21",
+          "value": 4.26
+        },
+        {
+          "asOf": "2026-07-22",
+          "value": 4.31
+        },
+        {
+          "asOf": "2026-07-23",
+          "value": 4.37
+        },
+        {
+          "asOf": "2026-07-24",
+          "value": 4.33
+        },
+        {
+          "asOf": "2026-07-27",
+          "value": 4.31
+        },
+        {
+          "asOf": "2026-07-28",
+          "value": 4.26
+        },
+        {
+          "asOf": "2026-07-29",
+          "value": 4.22
+        },
+        {
+          "asOf": "2026-07-30",
+          "value": 4.23
+        },
+        {
+          "asOf": "2026-07-31",
+          "value": 4.28
+        },
+        {
+          "asOf": "2026-08-03",
+          "value": 4.25
+        },
+        {
+          "asOf": "2026-08-04",
+          "value": 4.2
+        },
+        {
+          "asOf": "2026-08-05",
+          "value": 4.18
+        },
+        {
+          "asOf": "2026-08-06",
+          "value": 4.25
+        },
+        {
+          "asOf": "2026-08-07",
+          "value": 4.19
+        },
+        {
+          "asOf": "2026-08-10",
+          "value": 4.25
+        },
+        {
+          "asOf": "2026-08-11",
+          "value": 4.22
+        },
+        {
+          "asOf": "2026-08-12",
+          "value": 4.2
+        },
+        {
+          "asOf": "2026-08-13",
+          "value": 4.15
+        },
+        {
+          "asOf": "2026-08-14",
+          "value": 4.17
+        },
+        {
+          "asOf": "2026-08-17",
+          "value": 4.19
+        },
+        {
+          "asOf": "2026-08-18",
+          "value": 4.19
+        },
+        {
+          "asOf": "2026-08-19",
+          "value": 4.19
+        },
+        {
+          "asOf": "2026-08-20",
+          "value": 4.19
+        },
+        {
+          "asOf": "2026-08-21",
+          "value": 4.24
+        },
+        {
+          "asOf": "2026-08-24",
+          "value": 4.24
+        },
+        {
+          "asOf": "2026-08-25",
+          "value": 4.17
+        },
+        {
+          "asOf": "2026-08-26",
+          "value": 4.19
+        },
+        {
+          "asOf": "2026-08-27",
+          "value": 4.2
+        },
+        {
+          "asOf": "2026-08-28",
+          "value": 4.34
+        },
+        {
+          "asOf": "2026-08-31",
+          "value": 4.34
+        },
+        {
+          "asOf": "2026-09-01",
+          "value": 4.39
+        },
+        {
+          "asOf": "2026-09-02",
+          "value": 4.39
+        },
+        {
+          "asOf": "2026-09-03",
+          "value": 4.34
+        },
+        {
+          "asOf": "2026-09-04",
+          "value": 4.37
+        },
+        {
+          "asOf": "2026-09-08",
+          "value": 4.39
+        },
+        {
+          "asOf": "2026-09-09",
+          "value": 4.43
+        },
+        {
+          "asOf": "2026-09-10",
+          "value": 4.56
+        },
+        {
+          "asOf": "2026-09-11",
+          "value": 4.63
+        }
+      ]
+    },
+    {
+      "id": "US10Y",
+      "name": "10-year Treasury",
+      "value": 4.96,
+      "unit": "%",
+      "asOf": "2026-09-11",
+      "source": "US Treasury",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "frequency": "Daily observation; not a live quote",
+      "history": [
+        {
+          "asOf": "2025-09-12",
+          "value": 4.06
+        },
+        {
+          "asOf": "2025-09-15",
+          "value": 4.05
+        },
+        {
+          "asOf": "2025-09-16",
+          "value": 4.04
+        },
+        {
+          "asOf": "2025-09-17",
+          "value": 4.06
+        },
+        {
+          "asOf": "2025-09-18",
+          "value": 4.11
+        },
+        {
+          "asOf": "2025-09-19",
+          "value": 4.14
+        },
+        {
+          "asOf": "2025-09-22",
+          "value": 4.15
+        },
+        {
+          "asOf": "2025-09-23",
+          "value": 4.12
+        },
+        {
+          "asOf": "2025-09-24",
+          "value": 4.16
+        },
+        {
+          "asOf": "2025-09-25",
+          "value": 4.18
+        },
+        {
+          "asOf": "2025-09-26",
+          "value": 4.2
+        },
+        {
+          "asOf": "2025-09-29",
+          "value": 4.15
+        },
+        {
+          "asOf": "2025-09-30",
+          "value": 4.16
+        },
+        {
+          "asOf": "2025-10-01",
+          "value": 4.12
+        },
+        {
+          "asOf": "2025-10-02",
+          "value": 4.1
+        },
+        {
+          "asOf": "2025-10-03",
+          "value": 4.13
+        },
+        {
+          "asOf": "2025-10-06",
+          "value": 4.18
+        },
+        {
+          "asOf": "2025-10-07",
+          "value": 4.14
+        },
+        {
+          "asOf": "2025-10-08",
+          "value": 4.13
+        },
+        {
+          "asOf": "2025-10-09",
+          "value": 4.14
+        },
+        {
+          "asOf": "2025-10-10",
+          "value": 4.05
+        },
+        {
+          "asOf": "2025-10-14",
+          "value": 4.03
+        },
+        {
+          "asOf": "2025-10-15",
+          "value": 4.05
+        },
+        {
+          "asOf": "2025-10-16",
+          "value": 3.99
+        },
+        {
+          "asOf": "2025-10-17",
+          "value": 4.02
+        },
+        {
+          "asOf": "2025-10-20",
+          "value": 4.0
+        },
+        {
+          "asOf": "2025-10-21",
+          "value": 3.98
+        },
+        {
+          "asOf": "2025-10-22",
+          "value": 3.97
+        },
+        {
+          "asOf": "2025-10-23",
+          "value": 4.01
+        },
+        {
+          "asOf": "2025-10-24",
+          "value": 4.02
+        },
+        {
+          "asOf": "2025-10-27",
+          "value": 4.01
+        },
+        {
+          "asOf": "2025-10-28",
+          "value": 3.99
+        },
+        {
+          "asOf": "2025-10-29",
+          "value": 4.08
+        },
+        {
+          "asOf": "2025-10-30",
+          "value": 4.11
+        },
+        {
+          "asOf": "2025-10-31",
+          "value": 4.11
+        },
+        {
+          "asOf": "2025-11-03",
+          "value": 4.13
+        },
+        {
+          "asOf": "2025-11-04",
+          "value": 4.1
+        },
+        {
+          "asOf": "2025-11-05",
+          "value": 4.17
+        },
+        {
+          "asOf": "2025-11-06",
+          "value": 4.11
+        },
+        {
+          "asOf": "2025-11-07",
+          "value": 4.11
+        },
+        {
+          "asOf": "2025-11-10",
+          "value": 4.13
+        },
+        {
+          "asOf": "2025-11-12",
+          "value": 4.08
+        },
+        {
+          "asOf": "2025-11-13",
+          "value": 4.11
+        },
+        {
+          "asOf": "2025-11-14",
+          "value": 4.14
+        },
+        {
+          "asOf": "2025-11-17",
+          "value": 4.13
+        },
+        {
+          "asOf": "2025-11-18",
+          "value": 4.12
+        },
+        {
+          "asOf": "2025-11-19",
+          "value": 4.13
+        },
+        {
+          "asOf": "2025-11-20",
+          "value": 4.1
+        },
+        {
+          "asOf": "2025-11-21",
+          "value": 4.06
+        },
+        {
+          "asOf": "2025-11-24",
+          "value": 4.04
+        },
+        {
+          "asOf": "2025-11-25",
+          "value": 4.01
+        },
+        {
+          "asOf": "2025-11-26",
+          "value": 4.0
+        },
+        {
+          "asOf": "2025-11-28",
+          "value": 4.02
+        },
+        {
+          "asOf": "2025-12-01",
+          "value": 4.09
+        },
+        {
+          "asOf": "2025-12-02",
+          "value": 4.09
+        },
+        {
+          "asOf": "2025-12-03",
+          "value": 4.06
+        },
+        {
+          "asOf": "2025-12-04",
+          "value": 4.11
+        },
+        {
+          "asOf": "2025-12-05",
+          "value": 4.14
+        },
+        {
+          "asOf": "2025-12-08",
+          "value": 4.17
+        },
+        {
+          "asOf": "2025-12-09",
+          "value": 4.18
+        },
+        {
+          "asOf": "2025-12-10",
+          "value": 4.13
+        },
+        {
+          "asOf": "2025-12-11",
+          "value": 4.14
+        },
+        {
+          "asOf": "2025-12-12",
+          "value": 4.19
+        },
+        {
+          "asOf": "2025-12-15",
+          "value": 4.18
+        },
+        {
+          "asOf": "2025-12-16",
+          "value": 4.15
+        },
+        {
+          "asOf": "2025-12-17",
+          "value": 4.16
+        },
+        {
+          "asOf": "2025-12-18",
+          "value": 4.12
+        },
+        {
+          "asOf": "2025-12-19",
+          "value": 4.16
+        },
+        {
+          "asOf": "2025-12-22",
+          "value": 4.17
+        },
+        {
+          "asOf": "2025-12-23",
+          "value": 4.18
+        },
+        {
+          "asOf": "2025-12-24",
+          "value": 4.15
+        },
+        {
+          "asOf": "2025-12-26",
+          "value": 4.14
+        },
+        {
+          "asOf": "2025-12-29",
+          "value": 4.12
+        },
+        {
+          "asOf": "2025-12-30",
+          "value": 4.14
+        },
+        {
+          "asOf": "2025-12-31",
+          "value": 4.18
+        },
+        {
+          "asOf": "2026-01-02",
+          "value": 4.19
+        },
+        {
+          "asOf": "2026-01-05",
+          "value": 4.17
+        },
+        {
+          "asOf": "2026-01-06",
+          "value": 4.18
+        },
+        {
+          "asOf": "2026-01-07",
+          "value": 4.15
+        },
+        {
+          "asOf": "2026-01-08",
+          "value": 4.19
+        },
+        {
+          "asOf": "2026-01-09",
+          "value": 4.18
+        },
+        {
+          "asOf": "2026-01-12",
+          "value": 4.19
+        },
+        {
+          "asOf": "2026-01-13",
+          "value": 4.18
+        },
+        {
+          "asOf": "2026-01-14",
+          "value": 4.15
+        },
+        {
+          "asOf": "2026-01-15",
+          "value": 4.17
+        },
+        {
+          "asOf": "2026-01-16",
+          "value": 4.24
+        },
+        {
+          "asOf": "2026-01-20",
+          "value": 4.3
+        },
+        {
+          "asOf": "2026-01-21",
+          "value": 4.26
+        },
+        {
+          "asOf": "2026-01-22",
+          "value": 4.26
+        },
+        {
+          "asOf": "2026-01-23",
+          "value": 4.24
+        },
+        {
+          "asOf": "2026-01-26",
+          "value": 4.22
+        },
+        {
+          "asOf": "2026-01-27",
+          "value": 4.24
+        },
+        {
+          "asOf": "2026-01-28",
+          "value": 4.26
+        },
+        {
+          "asOf": "2026-01-29",
+          "value": 4.24
+        },
+        {
+          "asOf": "2026-01-30",
+          "value": 4.26
+        },
+        {
+          "asOf": "2026-02-02",
+          "value": 4.29
+        },
+        {
+          "asOf": "2026-02-03",
+          "value": 4.28
+        },
+        {
+          "asOf": "2026-02-04",
+          "value": 4.29
+        },
+        {
+          "asOf": "2026-02-05",
+          "value": 4.21
+        },
+        {
+          "asOf": "2026-02-06",
+          "value": 4.22
+        },
+        {
+          "asOf": "2026-02-09",
+          "value": 4.22
+        },
+        {
+          "asOf": "2026-02-10",
+          "value": 4.16
+        },
+        {
+          "asOf": "2026-02-11",
+          "value": 4.18
+        },
+        {
+          "asOf": "2026-02-12",
+          "value": 4.09
+        },
+        {
+          "asOf": "2026-02-13",
+          "value": 4.04
+        },
+        {
+          "asOf": "2026-02-17",
+          "value": 4.05
+        },
+        {
+          "asOf": "2026-02-18",
+          "value": 4.09
+        },
+        {
+          "asOf": "2026-02-19",
+          "value": 4.08
+        },
+        {
+          "asOf": "2026-02-20",
+          "value": 4.08
+        },
+        {
+          "asOf": "2026-02-23",
+          "value": 4.03
+        },
+        {
+          "asOf": "2026-02-24",
+          "value": 4.04
+        },
+        {
+          "asOf": "2026-02-25",
+          "value": 4.05
+        },
+        {
+          "asOf": "2026-02-26",
+          "value": 4.02
+        },
+        {
+          "asOf": "2026-02-27",
+          "value": 3.97
+        },
+        {
+          "asOf": "2026-03-02",
+          "value": 4.05
+        },
+        {
+          "asOf": "2026-03-03",
+          "value": 4.06
+        },
+        {
+          "asOf": "2026-03-04",
+          "value": 4.09
+        },
+        {
+          "asOf": "2026-03-05",
+          "value": 4.13
+        },
+        {
+          "asOf": "2026-03-06",
+          "value": 4.15
+        },
+        {
+          "asOf": "2026-03-09",
+          "value": 4.12
+        },
+        {
+          "asOf": "2026-03-10",
+          "value": 4.15
+        },
+        {
+          "asOf": "2026-03-11",
+          "value": 4.21
+        },
+        {
+          "asOf": "2026-03-12",
+          "value": 4.27
+        },
+        {
+          "asOf": "2026-03-13",
+          "value": 4.28
+        },
+        {
+          "asOf": "2026-03-16",
+          "value": 4.23
+        },
+        {
+          "asOf": "2026-03-17",
+          "value": 4.2
+        },
+        {
+          "asOf": "2026-03-18",
+          "value": 4.26
+        },
+        {
+          "asOf": "2026-03-19",
+          "value": 4.25
+        },
+        {
+          "asOf": "2026-03-20",
+          "value": 4.39
+        },
+        {
+          "asOf": "2026-03-23",
+          "value": 4.34
+        },
+        {
+          "asOf": "2026-03-24",
+          "value": 4.39
+        },
+        {
+          "asOf": "2026-03-25",
+          "value": 4.33
+        },
+        {
+          "asOf": "2026-03-26",
+          "value": 4.42
+        },
+        {
+          "asOf": "2026-03-27",
+          "value": 4.44
+        },
+        {
+          "asOf": "2026-03-30",
+          "value": 4.35
+        },
+        {
+          "asOf": "2026-03-31",
+          "value": 4.3
+        },
+        {
+          "asOf": "2026-04-01",
+          "value": 4.33
+        },
+        {
+          "asOf": "2026-04-02",
+          "value": 4.31
+        },
+        {
+          "asOf": "2026-04-03",
+          "value": 4.35
+        },
+        {
+          "asOf": "2026-04-06",
+          "value": 4.34
+        },
+        {
+          "asOf": "2026-04-07",
+          "value": 4.33
+        },
+        {
+          "asOf": "2026-04-08",
+          "value": 4.29
+        },
+        {
+          "asOf": "2026-04-09",
+          "value": 4.29
+        },
+        {
+          "asOf": "2026-04-10",
+          "value": 4.31
+        },
+        {
+          "asOf": "2026-04-13",
+          "value": 4.3
+        },
+        {
+          "asOf": "2026-04-14",
+          "value": 4.26
+        },
+        {
+          "asOf": "2026-04-15",
+          "value": 4.29
+        },
+        {
+          "asOf": "2026-04-16",
+          "value": 4.32
+        },
+        {
+          "asOf": "2026-04-17",
+          "value": 4.26
+        },
+        {
+          "asOf": "2026-04-20",
+          "value": 4.26
+        },
+        {
+          "asOf": "2026-04-21",
+          "value": 4.3
+        },
+        {
+          "asOf": "2026-04-22",
+          "value": 4.3
+        },
+        {
+          "asOf": "2026-04-23",
+          "value": 4.34
+        },
+        {
+          "asOf": "2026-04-24",
+          "value": 4.31
+        },
+        {
+          "asOf": "2026-04-27",
+          "value": 4.35
+        },
+        {
+          "asOf": "2026-04-28",
+          "value": 4.36
+        },
+        {
+          "asOf": "2026-04-29",
+          "value": 4.42
+        },
+        {
+          "asOf": "2026-04-30",
+          "value": 4.4
+        },
+        {
+          "asOf": "2026-05-01",
+          "value": 4.39
+        },
+        {
+          "asOf": "2026-05-04",
+          "value": 4.45
+        },
+        {
+          "asOf": "2026-05-05",
+          "value": 4.43
+        },
+        {
+          "asOf": "2026-05-06",
+          "value": 4.36
+        },
+        {
+          "asOf": "2026-05-07",
+          "value": 4.41
+        },
+        {
+          "asOf": "2026-05-08",
+          "value": 4.38
+        },
+        {
+          "asOf": "2026-05-11",
+          "value": 4.42
+        },
+        {
+          "asOf": "2026-05-12",
+          "value": 4.46
+        },
+        {
+          "asOf": "2026-05-13",
+          "value": 4.46
+        },
+        {
+          "asOf": "2026-05-14",
+          "value": 4.47
+        },
+        {
+          "asOf": "2026-05-15",
+          "value": 4.59
+        },
+        {
+          "asOf": "2026-05-18",
+          "value": 4.61
+        },
+        {
+          "asOf": "2026-05-19",
+          "value": 4.67
+        },
+        {
+          "asOf": "2026-05-20",
+          "value": 4.57
+        },
+        {
+          "asOf": "2026-05-21",
+          "value": 4.57
+        },
+        {
+          "asOf": "2026-05-22",
+          "value": 4.56
+        },
+        {
+          "asOf": "2026-05-26",
+          "value": 4.5
+        },
+        {
+          "asOf": "2026-05-27",
+          "value": 4.48
+        },
+        {
+          "asOf": "2026-05-28",
+          "value": 4.45
+        },
+        {
+          "asOf": "2026-05-29",
+          "value": 4.45
+        },
+        {
+          "asOf": "2026-06-01",
+          "value": 4.47
+        },
+        {
+          "asOf": "2026-06-02",
+          "value": 4.46
+        },
+        {
+          "asOf": "2026-06-03",
+          "value": 4.49
+        },
+        {
+          "asOf": "2026-06-04",
+          "value": 4.47
+        },
+        {
+          "asOf": "2026-06-05",
+          "value": 4.55
+        },
+        {
+          "asOf": "2026-06-08",
+          "value": 4.56
+        },
+        {
+          "asOf": "2026-06-09",
+          "value": 4.53
+        },
+        {
+          "asOf": "2026-06-10",
+          "value": 4.55
+        },
+        {
+          "asOf": "2026-06-11",
+          "value": 4.45
+        },
+        {
+          "asOf": "2026-06-12",
+          "value": 4.48
+        },
+        {
+          "asOf": "2026-06-15",
+          "value": 4.47
+        },
+        {
+          "asOf": "2026-06-16",
+          "value": 4.43
+        },
+        {
+          "asOf": "2026-06-17",
+          "value": 4.49
+        },
+        {
+          "asOf": "2026-06-18",
+          "value": 4.46
+        },
+        {
+          "asOf": "2026-06-22",
+          "value": 4.51
+        },
+        {
+          "asOf": "2026-06-23",
+          "value": 4.5
+        },
+        {
+          "asOf": "2026-06-24",
+          "value": 4.41
+        },
+        {
+          "asOf": "2026-06-25",
+          "value": 4.4
+        },
+        {
+          "asOf": "2026-06-26",
+          "value": 4.38
+        },
+        {
+          "asOf": "2026-06-29",
+          "value": 4.38
+        },
+        {
+          "asOf": "2026-06-30",
+          "value": 4.44
+        },
+        {
+          "asOf": "2026-07-01",
+          "value": 4.48
+        },
+        {
+          "asOf": "2026-07-02",
+          "value": 4.49
+        },
+        {
+          "asOf": "2026-07-06",
+          "value": 4.48
+        },
+        {
+          "asOf": "2026-07-07",
+          "value": 4.55
+        },
+        {
+          "asOf": "2026-07-08",
+          "value": 4.56
+        },
+        {
+          "asOf": "2026-07-09",
+          "value": 4.54
+        },
+        {
+          "asOf": "2026-07-10",
+          "value": 4.56
+        },
+        {
+          "asOf": "2026-07-13",
+          "value": 4.62
+        },
+        {
+          "asOf": "2026-07-14",
+          "value": 4.58
+        },
+        {
+          "asOf": "2026-07-15",
+          "value": 4.55
+        },
+        {
+          "asOf": "2026-07-16",
+          "value": 4.57
+        },
+        {
+          "asOf": "2026-07-17",
+          "value": 4.55
+        },
+        {
+          "asOf": "2026-07-20",
+          "value": 4.6
+        },
+        {
+          "asOf": "2026-07-21",
+          "value": 4.63
+        },
+        {
+          "asOf": "2026-07-22",
+          "value": 4.67
+        },
+        {
+          "asOf": "2026-07-23",
+          "value": 4.71
+        },
+        {
+          "asOf": "2026-07-24",
+          "value": 4.69
+        },
+        {
+          "asOf": "2026-07-27",
+          "value": 4.65
+        },
+        {
+          "asOf": "2026-07-28",
+          "value": 4.61
+        },
+        {
+          "asOf": "2026-07-29",
+          "value": 4.67
+        },
+        {
+          "asOf": "2026-07-30",
+          "value": 4.68
+        },
+        {
+          "asOf": "2026-07-31",
+          "value": 4.75
+        },
+        {
+          "asOf": "2026-08-03",
+          "value": 4.7
+        },
+        {
+          "asOf": "2026-08-04",
+          "value": 4.63
+        },
+        {
+          "asOf": "2026-08-05",
+          "value": 4.63
+        },
+        {
+          "asOf": "2026-08-06",
+          "value": 4.69
+        },
+        {
+          "asOf": "2026-08-07",
+          "value": 4.65
+        },
+        {
+          "asOf": "2026-08-10",
+          "value": 4.72
+        },
+        {
+          "asOf": "2026-08-11",
+          "value": 4.7
+        },
+        {
+          "asOf": "2026-08-12",
+          "value": 4.68
+        },
+        {
+          "asOf": "2026-08-13",
+          "value": 4.63
+        },
+        {
+          "asOf": "2026-08-14",
+          "value": 4.68
+        },
+        {
+          "asOf": "2026-08-17",
+          "value": 4.72
+        },
+        {
+          "asOf": "2026-08-18",
+          "value": 4.71
+        },
+        {
+          "asOf": "2026-08-19",
+          "value": 4.65
+        },
+        {
+          "asOf": "2026-08-20",
+          "value": 4.69
+        },
+        {
+          "asOf": "2026-08-21",
+          "value": 4.74
+        },
+        {
+          "asOf": "2026-08-24",
+          "value": 4.7
+        },
+        {
+          "asOf": "2026-08-25",
+          "value": 4.64
+        },
+        {
+          "asOf": "2026-08-26",
+          "value": 4.66
+        },
+        {
+          "asOf": "2026-08-27",
+          "value": 4.67
+        },
+        {
+          "asOf": "2026-08-28",
+          "value": 4.73
+        },
+        {
+          "asOf": "2026-08-31",
+          "value": 4.75
+        },
+        {
+          "asOf": "2026-09-01",
+          "value": 4.79
+        },
+        {
+          "asOf": "2026-09-02",
+          "value": 4.79
+        },
+        {
+          "asOf": "2026-09-03",
+          "value": 4.77
+        },
+        {
+          "asOf": "2026-09-04",
+          "value": 4.78
+        },
+        {
+          "asOf": "2026-09-08",
+          "value": 4.8
+        },
+        {
+          "asOf": "2026-09-09",
+          "value": 4.83
+        },
+        {
+          "asOf": "2026-09-10",
+          "value": 4.95
+        },
+        {
+          "asOf": "2026-09-11",
+          "value": 4.96
+        }
+      ]
+    },
+    {
+      "id": "US30Y",
+      "name": "30-year Treasury",
+      "value": 5.35,
+      "unit": "%",
+      "asOf": "2026-09-11",
+      "source": "US Treasury",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+      "frequency": "Daily observation; not a live quote",
+      "history": [
+        {
+          "asOf": "2025-09-12",
+          "value": 4.68
+        },
+        {
+          "asOf": "2025-09-15",
+          "value": 4.66
+        },
+        {
+          "asOf": "2025-09-16",
+          "value": 4.65
+        },
+        {
+          "asOf": "2025-09-17",
+          "value": 4.66
+        },
+        {
+          "asOf": "2025-09-18",
+          "value": 4.72
+        },
+        {
+          "asOf": "2025-09-19",
+          "value": 4.75
+        },
+        {
+          "asOf": "2025-09-22",
+          "value": 4.77
+        },
+        {
+          "asOf": "2025-09-23",
+          "value": 4.73
+        },
+        {
+          "asOf": "2025-09-24",
+          "value": 4.76
+        },
+        {
+          "asOf": "2025-09-25",
+          "value": 4.75
+        },
+        {
+          "asOf": "2025-09-26",
+          "value": 4.77
+        },
+        {
+          "asOf": "2025-09-29",
+          "value": 4.71
+        },
+        {
+          "asOf": "2025-09-30",
+          "value": 4.73
+        },
+        {
+          "asOf": "2025-10-01",
+          "value": 4.72
+        },
+        {
+          "asOf": "2025-10-02",
+          "value": 4.69
+        },
+        {
+          "asOf": "2025-10-03",
+          "value": 4.71
+        },
+        {
+          "asOf": "2025-10-06",
+          "value": 4.76
+        },
+        {
+          "asOf": "2025-10-07",
+          "value": 4.73
+        },
+        {
+          "asOf": "2025-10-08",
+          "value": 4.72
+        },
+        {
+          "asOf": "2025-10-09",
+          "value": 4.72
+        },
+        {
+          "asOf": "2025-10-10",
+          "value": 4.63
+        },
+        {
+          "asOf": "2025-10-14",
+          "value": 4.62
+        },
+        {
+          "asOf": "2025-10-15",
+          "value": 4.64
+        },
+        {
+          "asOf": "2025-10-16",
+          "value": 4.58
+        },
+        {
+          "asOf": "2025-10-17",
+          "value": 4.6
+        },
+        {
+          "asOf": "2025-10-20",
+          "value": 4.58
+        },
+        {
+          "asOf": "2025-10-21",
+          "value": 4.55
+        },
+        {
+          "asOf": "2025-10-22",
+          "value": 4.54
+        },
+        {
+          "asOf": "2025-10-23",
+          "value": 4.58
+        },
+        {
+          "asOf": "2025-10-24",
+          "value": 4.59
+        },
+        {
+          "asOf": "2025-10-27",
+          "value": 4.57
+        },
+        {
+          "asOf": "2025-10-28",
+          "value": 4.55
+        },
+        {
+          "asOf": "2025-10-29",
+          "value": 4.61
+        },
+        {
+          "asOf": "2025-10-30",
+          "value": 4.65
+        },
+        {
+          "asOf": "2025-10-31",
+          "value": 4.67
+        },
+        {
+          "asOf": "2025-11-03",
+          "value": 4.69
+        },
+        {
+          "asOf": "2025-11-04",
+          "value": 4.67
+        },
+        {
+          "asOf": "2025-11-05",
+          "value": 4.74
+        },
+        {
+          "asOf": "2025-11-06",
+          "value": 4.69
+        },
+        {
+          "asOf": "2025-11-07",
+          "value": 4.7
+        },
+        {
+          "asOf": "2025-11-10",
+          "value": 4.71
+        },
+        {
+          "asOf": "2025-11-12",
+          "value": 4.67
+        },
+        {
+          "asOf": "2025-11-13",
+          "value": 4.7
+        },
+        {
+          "asOf": "2025-11-14",
+          "value": 4.74
+        },
+        {
+          "asOf": "2025-11-17",
+          "value": 4.73
+        },
+        {
+          "asOf": "2025-11-18",
+          "value": 4.74
+        },
+        {
+          "asOf": "2025-11-19",
+          "value": 4.75
+        },
+        {
+          "asOf": "2025-11-20",
+          "value": 4.73
+        },
+        {
+          "asOf": "2025-11-21",
+          "value": 4.71
+        },
+        {
+          "asOf": "2025-11-24",
+          "value": 4.68
+        },
+        {
+          "asOf": "2025-11-25",
+          "value": 4.67
+        },
+        {
+          "asOf": "2025-11-26",
+          "value": 4.64
+        },
+        {
+          "asOf": "2025-11-28",
+          "value": 4.67
+        },
+        {
+          "asOf": "2025-12-01",
+          "value": 4.74
+        },
+        {
+          "asOf": "2025-12-02",
+          "value": 4.74
+        },
+        {
+          "asOf": "2025-12-03",
+          "value": 4.73
+        },
+        {
+          "asOf": "2025-12-04",
+          "value": 4.76
+        },
+        {
+          "asOf": "2025-12-05",
+          "value": 4.79
+        },
+        {
+          "asOf": "2025-12-08",
+          "value": 4.81
+        },
+        {
+          "asOf": "2025-12-09",
+          "value": 4.8
+        },
+        {
+          "asOf": "2025-12-10",
+          "value": 4.78
+        },
+        {
+          "asOf": "2025-12-11",
+          "value": 4.79
+        },
+        {
+          "asOf": "2025-12-12",
+          "value": 4.85
+        },
+        {
+          "asOf": "2025-12-15",
+          "value": 4.84
+        },
+        {
+          "asOf": "2025-12-16",
+          "value": 4.82
+        },
+        {
+          "asOf": "2025-12-17",
+          "value": 4.83
+        },
+        {
+          "asOf": "2025-12-18",
+          "value": 4.8
+        },
+        {
+          "asOf": "2025-12-19",
+          "value": 4.82
+        },
+        {
+          "asOf": "2025-12-22",
+          "value": 4.84
+        },
+        {
+          "asOf": "2025-12-23",
+          "value": 4.83
+        },
+        {
+          "asOf": "2025-12-24",
+          "value": 4.79
+        },
+        {
+          "asOf": "2025-12-26",
+          "value": 4.81
+        },
+        {
+          "asOf": "2025-12-29",
+          "value": 4.8
+        },
+        {
+          "asOf": "2025-12-30",
+          "value": 4.81
+        },
+        {
+          "asOf": "2025-12-31",
+          "value": 4.84
+        },
+        {
+          "asOf": "2026-01-02",
+          "value": 4.86
+        },
+        {
+          "asOf": "2026-01-05",
+          "value": 4.85
+        },
+        {
+          "asOf": "2026-01-06",
+          "value": 4.86
+        },
+        {
+          "asOf": "2026-01-07",
+          "value": 4.82
+        },
+        {
+          "asOf": "2026-01-08",
+          "value": 4.85
+        },
+        {
+          "asOf": "2026-01-09",
+          "value": 4.82
+        },
+        {
+          "asOf": "2026-01-12",
+          "value": 4.83
+        },
+        {
+          "asOf": "2026-01-13",
+          "value": 4.83
+        },
+        {
+          "asOf": "2026-01-14",
+          "value": 4.79
+        },
+        {
+          "asOf": "2026-01-15",
+          "value": 4.79
+        },
+        {
+          "asOf": "2026-01-16",
+          "value": 4.83
+        },
+        {
+          "asOf": "2026-01-20",
+          "value": 4.91
+        },
+        {
+          "asOf": "2026-01-21",
+          "value": 4.87
+        },
+        {
+          "asOf": "2026-01-22",
+          "value": 4.84
+        },
+        {
+          "asOf": "2026-01-23",
+          "value": 4.82
+        },
+        {
+          "asOf": "2026-01-26",
+          "value": 4.8
+        },
+        {
+          "asOf": "2026-01-27",
+          "value": 4.83
+        },
+        {
+          "asOf": "2026-01-28",
+          "value": 4.85
+        },
+        {
+          "asOf": "2026-01-29",
+          "value": 4.85
+        },
+        {
+          "asOf": "2026-01-30",
+          "value": 4.87
+        },
+        {
+          "asOf": "2026-02-02",
+          "value": 4.9
+        },
+        {
+          "asOf": "2026-02-03",
+          "value": 4.9
+        },
+        {
+          "asOf": "2026-02-04",
+          "value": 4.91
+        },
+        {
+          "asOf": "2026-02-05",
+          "value": 4.85
+        },
+        {
+          "asOf": "2026-02-06",
+          "value": 4.85
+        },
+        {
+          "asOf": "2026-02-09",
+          "value": 4.85
+        },
+        {
+          "asOf": "2026-02-10",
+          "value": 4.78
+        },
+        {
+          "asOf": "2026-02-11",
+          "value": 4.82
+        },
+        {
+          "asOf": "2026-02-12",
+          "value": 4.72
+        },
+        {
+          "asOf": "2026-02-13",
+          "value": 4.69
+        },
+        {
+          "asOf": "2026-02-17",
+          "value": 4.68
+        },
+        {
+          "asOf": "2026-02-18",
+          "value": 4.71
+        },
+        {
+          "asOf": "2026-02-19",
+          "value": 4.7
+        },
+        {
+          "asOf": "2026-02-20",
+          "value": 4.72
+        },
+        {
+          "asOf": "2026-02-23",
+          "value": 4.7
+        },
+        {
+          "asOf": "2026-02-24",
+          "value": 4.7
+        },
+        {
+          "asOf": "2026-02-25",
+          "value": 4.7
+        },
+        {
+          "asOf": "2026-02-26",
+          "value": 4.67
+        },
+        {
+          "asOf": "2026-02-27",
+          "value": 4.64
+        },
+        {
+          "asOf": "2026-03-02",
+          "value": 4.7
+        },
+        {
+          "asOf": "2026-03-03",
+          "value": 4.7
+        },
+        {
+          "asOf": "2026-03-04",
+          "value": 4.72
+        },
+        {
+          "asOf": "2026-03-05",
+          "value": 4.74
+        },
+        {
+          "asOf": "2026-03-06",
+          "value": 4.77
+        },
+        {
+          "asOf": "2026-03-09",
+          "value": 4.72
+        },
+        {
+          "asOf": "2026-03-10",
+          "value": 4.78
+        },
+        {
+          "asOf": "2026-03-11",
+          "value": 4.86
+        },
+        {
+          "asOf": "2026-03-12",
+          "value": 4.88
+        },
+        {
+          "asOf": "2026-03-13",
+          "value": 4.9
+        },
+        {
+          "asOf": "2026-03-16",
+          "value": 4.86
+        },
+        {
+          "asOf": "2026-03-17",
+          "value": 4.85
+        },
+        {
+          "asOf": "2026-03-18",
+          "value": 4.88
+        },
+        {
+          "asOf": "2026-03-19",
+          "value": 4.83
+        },
+        {
+          "asOf": "2026-03-20",
+          "value": 4.96
+        },
+        {
+          "asOf": "2026-03-23",
+          "value": 4.91
+        },
+        {
+          "asOf": "2026-03-24",
+          "value": 4.94
+        },
+        {
+          "asOf": "2026-03-25",
+          "value": 4.89
+        },
+        {
+          "asOf": "2026-03-26",
+          "value": 4.93
+        },
+        {
+          "asOf": "2026-03-27",
+          "value": 4.98
+        },
+        {
+          "asOf": "2026-03-30",
+          "value": 4.91
+        },
+        {
+          "asOf": "2026-03-31",
+          "value": 4.88
+        },
+        {
+          "asOf": "2026-04-01",
+          "value": 4.91
+        },
+        {
+          "asOf": "2026-04-02",
+          "value": 4.88
+        },
+        {
+          "asOf": "2026-04-03",
+          "value": 4.91
+        },
+        {
+          "asOf": "2026-04-06",
+          "value": 4.89
+        },
+        {
+          "asOf": "2026-04-07",
+          "value": 4.9
+        },
+        {
+          "asOf": "2026-04-08",
+          "value": 4.89
+        },
+        {
+          "asOf": "2026-04-09",
+          "value": 4.9
+        },
+        {
+          "asOf": "2026-04-10",
+          "value": 4.91
+        },
+        {
+          "asOf": "2026-04-13",
+          "value": 4.9
+        },
+        {
+          "asOf": "2026-04-14",
+          "value": 4.87
+        },
+        {
+          "asOf": "2026-04-15",
+          "value": 4.89
+        },
+        {
+          "asOf": "2026-04-16",
+          "value": 4.93
+        },
+        {
+          "asOf": "2026-04-17",
+          "value": 4.88
+        },
+        {
+          "asOf": "2026-04-20",
+          "value": 4.88
+        },
+        {
+          "asOf": "2026-04-21",
+          "value": 4.89
+        },
+        {
+          "asOf": "2026-04-22",
+          "value": 4.9
+        },
+        {
+          "asOf": "2026-04-23",
+          "value": 4.92
+        },
+        {
+          "asOf": "2026-04-24",
+          "value": 4.91
+        },
+        {
+          "asOf": "2026-04-27",
+          "value": 4.94
+        },
+        {
+          "asOf": "2026-04-28",
+          "value": 4.94
+        },
+        {
+          "asOf": "2026-04-29",
+          "value": 4.98
+        },
+        {
+          "asOf": "2026-04-30",
+          "value": 4.98
+        },
+        {
+          "asOf": "2026-05-01",
+          "value": 4.97
+        },
+        {
+          "asOf": "2026-05-04",
+          "value": 5.02
+        },
+        {
+          "asOf": "2026-05-05",
+          "value": 4.98
+        },
+        {
+          "asOf": "2026-05-06",
+          "value": 4.94
+        },
+        {
+          "asOf": "2026-05-07",
+          "value": 4.97
+        },
+        {
+          "asOf": "2026-05-08",
+          "value": 4.95
+        },
+        {
+          "asOf": "2026-05-11",
+          "value": 4.98
+        },
+        {
+          "asOf": "2026-05-12",
+          "value": 5.03
+        },
+        {
+          "asOf": "2026-05-13",
+          "value": 5.03
+        },
+        {
+          "asOf": "2026-05-14",
+          "value": 5.02
+        },
+        {
+          "asOf": "2026-05-15",
+          "value": 5.12
+        },
+        {
+          "asOf": "2026-05-18",
+          "value": 5.14
+        },
+        {
+          "asOf": "2026-05-19",
+          "value": 5.18
+        },
+        {
+          "asOf": "2026-05-20",
+          "value": 5.11
+        },
+        {
+          "asOf": "2026-05-21",
+          "value": 5.1
+        },
+        {
+          "asOf": "2026-05-22",
+          "value": 5.07
+        },
+        {
+          "asOf": "2026-05-26",
+          "value": 5.03
+        },
+        {
+          "asOf": "2026-05-27",
+          "value": 5.01
+        },
+        {
+          "asOf": "2026-05-28",
+          "value": 4.98
+        },
+        {
+          "asOf": "2026-05-29",
+          "value": 4.99
+        },
+        {
+          "asOf": "2026-06-01",
+          "value": 4.99
+        },
+        {
+          "asOf": "2026-06-02",
+          "value": 4.97
+        },
+        {
+          "asOf": "2026-06-03",
+          "value": 4.99
+        },
+        {
+          "asOf": "2026-06-04",
+          "value": 4.97
+        },
+        {
+          "asOf": "2026-06-05",
+          "value": 5.01
+        },
+        {
+          "asOf": "2026-06-08",
+          "value": 5.03
+        },
+        {
+          "asOf": "2026-06-09",
+          "value": 5.01
+        },
+        {
+          "asOf": "2026-06-10",
+          "value": 5.03
+        },
+        {
+          "asOf": "2026-06-11",
+          "value": 4.95
+        },
+        {
+          "asOf": "2026-06-12",
+          "value": 4.97
+        },
+        {
+          "asOf": "2026-06-15",
+          "value": 4.97
+        },
+        {
+          "asOf": "2026-06-16",
+          "value": 4.93
+        },
+        {
+          "asOf": "2026-06-17",
+          "value": 4.93
+        },
+        {
+          "asOf": "2026-06-18",
+          "value": 4.9
+        },
+        {
+          "asOf": "2026-06-22",
+          "value": 4.95
+        },
+        {
+          "asOf": "2026-06-23",
+          "value": 4.94
+        },
+        {
+          "asOf": "2026-06-24",
+          "value": 4.86
+        },
+        {
+          "asOf": "2026-06-25",
+          "value": 4.86
+        },
+        {
+          "asOf": "2026-06-26",
+          "value": 4.87
+        },
+        {
+          "asOf": "2026-06-29",
+          "value": 4.86
+        },
+        {
+          "asOf": "2026-06-30",
+          "value": 4.91
+        },
+        {
+          "asOf": "2026-07-01",
+          "value": 4.97
+        },
+        {
+          "asOf": "2026-07-02",
+          "value": 4.98
+        },
+        {
+          "asOf": "2026-07-06",
+          "value": 4.99
+        },
+        {
+          "asOf": "2026-07-07",
+          "value": 5.05
+        },
+        {
+          "asOf": "2026-07-08",
+          "value": 5.06
+        },
+        {
+          "asOf": "2026-07-09",
+          "value": 5.05
+        },
+        {
+          "asOf": "2026-07-10",
+          "value": 5.06
+        },
+        {
+          "asOf": "2026-07-13",
+          "value": 5.1
+        },
+        {
+          "asOf": "2026-07-14",
+          "value": 5.08
+        },
+        {
+          "asOf": "2026-07-15",
+          "value": 5.08
+        },
+        {
+          "asOf": "2026-07-16",
+          "value": 5.09
+        },
+        {
+          "asOf": "2026-07-17",
+          "value": 5.06
+        },
+        {
+          "asOf": "2026-07-20",
+          "value": 5.11
+        },
+        {
+          "asOf": "2026-07-21",
+          "value": 5.13
+        },
+        {
+          "asOf": "2026-07-22",
+          "value": 5.15
+        },
+        {
+          "asOf": "2026-07-23",
+          "value": 5.17
+        },
+        {
+          "asOf": "2026-07-24",
+          "value": 5.16
+        },
+        {
+          "asOf": "2026-07-27",
+          "value": 5.12
+        },
+        {
+          "asOf": "2026-07-28",
+          "value": 5.09
+        },
+        {
+          "asOf": "2026-07-29",
+          "value": 5.2
+        },
+        {
+          "asOf": "2026-07-30",
+          "value": 5.21
+        },
+        {
+          "asOf": "2026-07-31",
+          "value": 5.27
+        },
+        {
+          "asOf": "2026-08-03",
+          "value": 5.23
+        },
+        {
+          "asOf": "2026-08-04",
+          "value": 5.18
+        },
+        {
+          "asOf": "2026-08-05",
+          "value": 5.17
+        },
+        {
+          "asOf": "2026-08-06",
+          "value": 5.22
+        },
+        {
+          "asOf": "2026-08-07",
+          "value": 5.19
+        },
+        {
+          "asOf": "2026-08-10",
+          "value": 5.25
+        },
+        {
+          "asOf": "2026-08-11",
+          "value": 5.24
+        },
+        {
+          "asOf": "2026-08-12",
+          "value": 5.24
+        },
+        {
+          "asOf": "2026-08-13",
+          "value": 5.21
+        },
+        {
+          "asOf": "2026-08-14",
+          "value": 5.25
+        },
+        {
+          "asOf": "2026-08-17",
+          "value": 5.31
+        },
+        {
+          "asOf": "2026-08-18",
+          "value": 5.28
+        },
+        {
+          "asOf": "2026-08-19",
+          "value": 5.19
+        },
+        {
+          "asOf": "2026-08-20",
+          "value": 5.23
+        },
+        {
+          "asOf": "2026-08-21",
+          "value": 5.27
+        },
+        {
+          "asOf": "2026-08-24",
+          "value": 5.23
+        },
+        {
+          "asOf": "2026-08-25",
+          "value": 5.17
+        },
+        {
+          "asOf": "2026-08-26",
+          "value": 5.18
+        },
+        {
+          "asOf": "2026-08-27",
+          "value": 5.19
+        },
+        {
+          "asOf": "2026-08-28",
+          "value": 5.22
+        },
+        {
+          "asOf": "2026-08-31",
+          "value": 5.25
+        },
+        {
+          "asOf": "2026-09-01",
+          "value": 5.27
+        },
+        {
+          "asOf": "2026-09-02",
+          "value": 5.27
+        },
+        {
+          "asOf": "2026-09-03",
+          "value": 5.25
+        },
+        {
+          "asOf": "2026-09-04",
+          "value": 5.24
+        },
+        {
+          "asOf": "2026-09-08",
+          "value": 5.25
+        },
+        {
+          "asOf": "2026-09-09",
+          "value": 5.28
+        },
+        {
+          "asOf": "2026-09-10",
+          "value": 5.37
+        },
+        {
+          "asOf": "2026-09-11",
+          "value": 5.35
+        }
+      ]
+    },
+    {
+      "id": "CUUR0000SA0",
+      "name": "CPI-U all items \u00b7 not seasonally adjusted",
+      "value": 334.98,
+      "unit": " index points (1982\u201384=100)",
+      "asOf": "2026-08",
+      "source": "BLS Public Data API",
+      "url": "https://data.bls.gov/timeseries/CUUR0000SA0",
+      "frequency": "Monthly reference period, not a release timestamp; revisions possible",
+      "history": [
+        {
+          "asOf": "2024-10",
+          "value": 315.664
+        },
+        {
+          "asOf": "2024-11",
+          "value": 315.493
+        },
+        {
+          "asOf": "2024-12",
+          "value": 315.605
+        },
+        {
+          "asOf": "2025-01",
+          "value": 317.671
+        },
+        {
+          "asOf": "2025-02",
+          "value": 319.082
+        },
+        {
+          "asOf": "2025-03",
+          "value": 319.799
+        },
+        {
+          "asOf": "2025-04",
+          "value": 320.795
+        },
+        {
+          "asOf": "2025-05",
+          "value": 321.465
+        },
+        {
+          "asOf": "2025-06",
+          "value": 322.561
+        },
+        {
+          "asOf": "2025-07",
+          "value": 323.048
+        },
+        {
+          "asOf": "2025-08",
+          "value": 323.976
+        },
+        {
+          "asOf": "2025-09",
+          "value": 324.8
+        },
+        {
+          "asOf": "2025-11",
+          "value": 324.122
+        },
+        {
+          "asOf": "2025-12",
+          "value": 324.054
+        },
+        {
+          "asOf": "2026-01",
+          "value": 325.252
+        },
+        {
+          "asOf": "2026-02",
+          "value": 326.785
+        },
+        {
+          "asOf": "2026-03",
+          "value": 330.213
+        },
+        {
+          "asOf": "2026-04",
+          "value": 333.02
+        },
+        {
+          "asOf": "2026-05",
+          "value": 335.123
+        },
+        {
+          "asOf": "2026-06",
+          "value": 333.952
+        },
+        {
+          "asOf": "2026-07",
+          "value": 333.918
+        },
+        {
+          "asOf": "2026-08",
+          "value": 334.98
+        }
+      ]
+    },
+    {
+      "id": "LNS14000000",
+      "name": "Unemployment rate \u00b7 seasonally adjusted",
+      "value": 4.1,
+      "unit": "%",
+      "asOf": "2026-08",
+      "source": "BLS Public Data API",
+      "url": "https://data.bls.gov/timeseries/LNS14000000",
+      "frequency": "Monthly reference period, not a release timestamp; revisions possible",
+      "history": [
+        {
+          "asOf": "2024-10",
+          "value": 4.1
+        },
+        {
+          "asOf": "2024-11",
+          "value": 4.2
+        },
+        {
+          "asOf": "2024-12",
+          "value": 4.1
+        },
+        {
+          "asOf": "2025-01",
+          "value": 4.0
+        },
+        {
+          "asOf": "2025-02",
+          "value": 4.2
+        },
+        {
+          "asOf": "2025-03",
+          "value": 4.2
+        },
+        {
+          "asOf": "2025-04",
+          "value": 4.2
+        },
+        {
+          "asOf": "2025-05",
+          "value": 4.3
+        },
+        {
+          "asOf": "2025-06",
+          "value": 4.1
+        },
+        {
+          "asOf": "2025-07",
+          "value": 4.3
+        },
+        {
+          "asOf": "2025-08",
+          "value": 4.3
+        },
+        {
+          "asOf": "2025-09",
+          "value": 4.4
+        },
+        {
+          "asOf": "2025-11",
+          "value": 4.5
+        },
+        {
+          "asOf": "2025-12",
+          "value": 4.4
+        },
+        {
+          "asOf": "2026-01",
+          "value": 4.3
+        },
+        {
+          "asOf": "2026-02",
+          "value": 4.4
+        },
+        {
+          "asOf": "2026-03",
+          "value": 4.3
+        },
+        {
+          "asOf": "2026-04",
+          "value": 4.3
+        },
+        {
+          "asOf": "2026-05",
+          "value": 4.3
+        },
+        {
+          "asOf": "2026-06",
+          "value": 4.2
+        },
+        {
+          "asOf": "2026-07",
+          "value": 4.1
+        },
+        {
+          "asOf": "2026-08",
+          "value": 4.1
+        }
+      ]
+    },
+    {
+      "id": "CES0000000001",
+      "name": "Total nonfarm payrolls \u00b7 seasonally adjusted",
+      "value": 159075.0,
+      "unit": " thousand persons",
+      "asOf": "2026-08",
+      "source": "BLS Public Data API",
+      "url": "https://data.bls.gov/timeseries/CES0000000001",
+      "frequency": "Monthly reference period, not a release timestamp; revisions possible",
+      "history": [
+        {
+          "asOf": "2024-10",
+          "value": 157945.0
+        },
+        {
+          "asOf": "2024-11",
+          "value": 158079.0
+        },
+        {
+          "asOf": "2024-12",
+          "value": 158316.0
+        },
+        {
+          "asOf": "2025-01",
+          "value": 158268.0
+        },
+        {
+          "asOf": "2025-02",
+          "value": 158310.0
+        },
+        {
+          "asOf": "2025-03",
+          "value": 158377.0
+        },
+        {
+          "asOf": "2025-04",
+          "value": 158485.0
+        },
+        {
+          "asOf": "2025-05",
+          "value": 158498.0
+        },
+        {
+          "asOf": "2025-06",
+          "value": 158478.0
+        },
+        {
+          "asOf": "2025-07",
+          "value": 158542.0
+        },
+        {
+          "asOf": "2025-08",
+          "value": 158472.0
+        },
+        {
+          "asOf": "2025-09",
+          "value": 158548.0
+        },
+        {
+          "asOf": "2025-10",
+          "value": 158408.0
+        },
+        {
+          "asOf": "2025-11",
+          "value": 158449.0
+        },
+        {
+          "asOf": "2025-12",
+          "value": 158432.0
+        },
+        {
+          "asOf": "2026-01",
+          "value": 158592.0
+        },
+        {
+          "asOf": "2026-02",
+          "value": 158436.0
+        },
+        {
+          "asOf": "2026-03",
+          "value": 158650.0
+        },
+        {
+          "asOf": "2026-04",
+          "value": 158798.0
+        },
+        {
+          "asOf": "2026-05",
+          "value": 158861.0
+        },
+        {
+          "asOf": "2026-06",
+          "value": 158892.0
+        },
+        {
+          "asOf": "2026-07",
+          "value": 158913.0
+        },
+        {
+          "asOf": "2026-08",
+          "value": 159075.0
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "fed",
+      "name": "Federal Reserve",
+      "status": "error",
+      "checkedAt": "2026-09-12T19:37:07.354193Z",
+      "count": 0,
+      "message": "Source unavailable (HTTPError HTTP 404); retained data may be stale."
+    },
+    {
+      "id": "bls-cpi",
+      "name": "BLS \u00b7 Inflation",
+      "status": "error",
+      "checkedAt": "2026-09-12T19:37:07.354193Z",
+      "count": 0,
+      "message": "Source unavailable (HTTPError HTTP 403); retained data may be stale."
+    },
+    {
+      "id": "bls-jobs",
+      "name": "BLS \u00b7 Employment",
+      "status": "error",
+      "checkedAt": "2026-09-12T19:37:07.354193Z",
+      "count": 0,
+      "message": "Source unavailable (HTTPError HTTP 403); retained data may be stale."
+    },
+    {
+      "id": "ecb",
+      "name": "European Central Bank",
+      "status": "ok",
+      "checkedAt": "2026-09-12T19:37:07.354193Z",
+      "count": 15
+    },
+    {
+      "id": "boe",
+      "name": "Bank of England",
+      "status": "ok",
+      "checkedAt": "2026-09-12T19:37:07.354193Z",
+      "count": 50
+    },
+    {
+      "id": "eia",
+      "name": "EIA \u00b7 Today in Energy",
+      "status": "ok",
+      "checkedAt": "2026-09-12T19:37:07.354193Z",
+      "count": 15
+    },
+    {
+      "id": "bea",
+      "name": "Bureau of Economic Analysis",
+      "status": "ok",
+      "checkedAt": "2026-09-12T19:37:07.354193Z",
+      "count": 19
+    },
+    {
+      "id": "bls-calendar",
+      "name": "BLS release calendar",
+      "status": "error",
+      "checkedAt": "2026-09-12T19:37:07.354193Z",
+      "count": 0,
+      "message": "Source unavailable (HTTPError HTTP 403); retained data may be stale."
+    },
+    {
+      "id": "fomc-calendar",
+      "name": "FOMC meeting calendar",
+      "status": "ok",
+      "checkedAt": "2026-09-12T19:37:07.354193Z",
+      "count": 1
+    },
+    {
+      "id": "treasury",
+      "name": "US Treasury",
+      "status": "ok",
+      "checkedAt": "2026-09-12T19:37:07.354193Z",
+      "count": 3
+    },
+    {
+      "id": "bls-api",
+      "name": "BLS Public Data API",
+      "status": "ok",
+      "checkedAt": "2026-09-12T19:37:07.354193Z",
+      "count": 3
+    }
+  ],
+  "coverageNotes": [
+    "Official US macro, energy and selected global central-bank sources; company earnings and geopolitical coverage is not yet connected.",
+    "Equity, index, FX, commodity and crypto prices and consensus require licensed providers.",
+    "Rolling ten NYSE trading-day news window includes intervening weekend/holiday news. Initial RSS history plus Fed archives; historical coverage is partial where sources lack accessible archives.",
+    "Longer-lived context uses topic review/expiry rules, not verified current policy status. Treasury observations retain up to one year; BLS series retain up to two years when the publisher key is configured.",
+    "Scheduled every 30 minutes; delivery may be delayed. Treasury values are daily observations."
+  ]
+}
